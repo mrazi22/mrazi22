@@ -1,4 +1,4 @@
-```markdown
+
 # Hi 👋, I'm Simon Inziria
 
 ## Full-Stack Software Developer
@@ -181,7 +181,7 @@ desktop computers.
   </a>
 </p>
 
----
+
 
 > I build practical software that helps businesses and organizations work better.
 ```
